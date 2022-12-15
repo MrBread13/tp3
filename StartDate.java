@@ -1,8 +1,8 @@
 public class StartDate {
 
-	private String day = "1er";
-	private String month = "Janvier";
-	private String year = "1970";
+	private String day = "15";
+	private String month = "Decembre";
+	private String year = "2022";
 
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
