@@ -6,6 +6,8 @@ class App {
 		
 		Group group = new Group();
 		System.out.println(group.toString());
+		StartDate startDate = new StartDate();
+		System.out.println(startDate.toString());
 	}
 
 }
